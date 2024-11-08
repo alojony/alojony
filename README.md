@@ -6,10 +6,12 @@ I bridge the gap between data science, software engineering, and physics to crea
 - 🎓 Master of Science in Data Science and Business Analytics | HEC Montreal
 - 🎓 Bachelor of Science in Engineering Physics | Universidad de Guanajuato
 - 🔭 Engineering Physicist by training, Software Engineer by profession, Data Scientist by passion.
-- 📍 Based in Montreal, Canada | From Mexico 🇲🇽
+- 📍 Based in Califronia  🇺🇸 | From Mexico 🇲🇽
+- 🗣️ I speak: spanish🇪🇸 english 🇬🇧 french 🇫🇷 italian 🇮🇹 portuguese 🇵🇹 russian 🇷🇺
 
 ## Tech Stack 💻
 - **Data Analysis and Statistics**: Python, R, SQL, NoSQL, Pandas, NumPy, SciKit-Learn, TensorFlow, Qiskit
+- **Cloud Development and Architechture**: AWS, GCP, Azure, RedHat. 
 - **Web Development**: JavaScript (Node.js, React, Angular), Python (Flask, Django), HTML, CSS
 - **Simulation & Modeling**: Python, C/C++, MatLab
 - **Operating Systems**: Proficient in Windows, macOS, GNU/Linux environments
