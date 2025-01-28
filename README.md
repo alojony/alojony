@@ -7,7 +7,7 @@ I bridge the gap between data science, software engineering, and physics to crea
 - 🎓 Bachelor of Science in Engineering Physics | Universidad de Guanajuato
 - 🔭 Engineering Physicist by training, Software Engineer by profession, Data Scientist by passion.
 - 📍 Based in Califronia  🇺🇸 | From Mexico 🇲🇽
-- 🗣️ I speak: spanish🇪🇸 english 🇬🇧 french 🇫🇷 italian 🇮🇹 portuguese 🇵🇹 russian 🇷🇺
+- 🗣️ I speak: spanish🇪🇸 english 🇬🇧 french 🇫🇷 italian 🇮🇹russian 🇷🇺
 
 ## Tech Stack 💻
 - **Data Analysis and Statistics**: Python, R, SQL, NoSQL, Pandas, NumPy, SciKit-Learn, TensorFlow, Qiskit
